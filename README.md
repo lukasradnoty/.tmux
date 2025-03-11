@@ -1,6 +1,8 @@
-*bold* means defined in tmux.conf, not a default shortcut
+## Keybindings cheat sheet
 
-| action                               | key        |
+_**bold** means custom binding_
+
+| action                               | ^b + key   |
 |--------------------------------------|------------|
 | window new                           | c          |
 | window kill                          | &          |
@@ -14,6 +16,7 @@
 | pane previously active               | ;          |
 | pane swap with next                  | }          |
 | pane swap with previous              | {          |
-| focus pane to the left/right/up/down | Arrow keys |
+| focus pane to the left/right/up/down | arrow keys |
 | pane fullscreen                      | z          |
-| *configuration reload*               | r          |
+| **configuration reload**             | r          |
+
